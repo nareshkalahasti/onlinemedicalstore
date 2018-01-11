@@ -1,4 +1,4 @@
-package com.MidasTouchBackend;
+package com.OnlinemedicalBackend;
 
 import static org.junit.Assert.*;
 
